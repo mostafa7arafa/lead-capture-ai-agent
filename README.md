@@ -82,7 +82,3 @@ Since this project uses Flowise, no actual code needs to be stored. However, her
 
 - Once set up, the AI chatbot can be embedded into a company website as a lead generation tool.
 - Customers interacting with the bot will be asked for relevant information, which will be forwarded to Zoho CRM.
-
-## License
-
-[Specify your license here, e.g., MIT]
