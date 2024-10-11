@@ -56,6 +56,30 @@ Once the lead is captured, the assistant uses a custom tool that triggers a webh
 4. **Webhook Integration:**
     - The webhook is configured in [Make platform](https://www.make.com/) to handle the information and forward it to Zoho CRM.
 
+## Flowise Architecture
+
+Here is the Flowise architecture for the Lead Capture AI Agent:
+
+![Flowise Architecture](screenshots/flowise-architecture.png)
+
+## Chat with the Bot
+
+Example of a conversation with the chatbot:
+
+![Chat with Bot](screenshots/chat-with-bot.png)
+
+## Make Webhook Architecture
+
+This is the Webhook architecture in Make platform:
+
+![Make Webhook](screenshots/make-architecture.png)
+
+## Zoho CRM Lead Verification
+
+Here is a screenshot from Zoho CRM verifying that the leads captured by the chatbot have been successfully added:
+
+![Zoho CRM Lead Verification](screenshots/zoho-crm-lead-verification.png)
+
 ## Setup
 
 Since this project uses Flowise, no actual code needs to be stored. However, here’s how you can set it up:
